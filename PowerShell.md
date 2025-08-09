@@ -1,4 +1,4 @@
-# PowerShell Cmdlet Cheat Sheet – Aayush Kumar
+# PowerShell Cmdlet
 
 ## Basic Cmdlets
 
